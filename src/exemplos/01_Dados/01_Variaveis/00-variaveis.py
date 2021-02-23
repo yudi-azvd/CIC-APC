@@ -42,7 +42,7 @@ email = 'turing@unb.??'  # ?? para evitar spam...
 domina_a_linguagem = False
 vai_estudar = True
 
-print('1a versão:')
+print('\n1a versão:')
 print('idade              =', idade)
 print('contador1          =', contador1)
 print('contador_2         =', contador_2)
@@ -71,7 +71,7 @@ domina_a_linguagem = True
 vai_estudar = False
 
 # Verificando as alterações:
-print('2a versão:')
+print('\n2a versão:')
 print('idade              =', idade)
 print('contador1          =', contador1)
 print('contador_2         =', contador_2)
@@ -99,7 +99,7 @@ domina_a_linguagem = False
 vai_estudar = True
 
 # Verificando as alterações:
-print('3a versão:')
+print('\n3a versão:')
 print('idade              = [%d]' % idade)
 print('contador1          = [%d]' % contador1)
 print('contador_2         = [%d]' % contador_2)
